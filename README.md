@@ -21,7 +21,7 @@ If you want to contribute to this project, feel free to fork the repository and 
 
 ## Contact
 
-For questions or comments about the project, you can get in touch with the Tom James development team via [email](mailto:development@tomjames.com) or visit our website at [www.tomjames.com](https://www.tomjames.com).
+For questions or comments about the project, you can get in touch with the Tom James development team via [email](mailto:juortiz@crossvillefabric.com) or visit our website at [www.tomjames.com](https://www.tomjames.com).
 
 ---
 It is essential to mention that the `app_offline.htm` file has been created as a simple maintenance page to be used in the context of the Tom James company. If you have any other questions or need more information, feel free to let us know. Good luck with the project!
