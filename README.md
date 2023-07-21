@@ -19,6 +19,10 @@ To deploy the `app_offline.htm` page in your web application, follow these steps
 
 If you want to contribute to this project, feel free to fork the repository and send your pull requests. We appreciate any improvements or fixes you can bring.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ## Contact
 
 For questions or comments about the project, you can get in touch with the Tom James development team via [email](mailto:juortiz@crossvillefabric.com) or visit our website at [www.tomjames.com](https://www.tomjames.com).
