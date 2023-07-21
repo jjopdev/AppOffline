@@ -1,4 +1,4 @@
-# app_offline.htm Project for Tom James
+# Tom James Maintenance Page - app_offline.htm
 
 This repository contains the `app_offline.htm` page source code for the Tom James company project. The purpose of this page is to display a maintenance message or temporarily disable the application while performing updates or maintenance tasks.
 
@@ -25,4 +25,3 @@ For questions or comments about the project, you can get in touch with the Tom J
 
 ---
 It is essential to mention that the `app_offline.htm` file has been created as a simple maintenance page to be used in the context of the Tom James company. If you have any other questions or need more information, feel free to let us know. Good luck with the project!
-
